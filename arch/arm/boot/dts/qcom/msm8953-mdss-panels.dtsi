@@ -27,6 +27,7 @@
 #include "dsi-panel-otm1911-fhd-video.dtsi"
 #include "dsi-panel-ft8716-fhd-video.dtsi"
 #include "dsi-panel-ili7807-fhd-video.dtsi"
+#include "dsi-panel-hx83100a-800p-video.dtsi"
 
 &soc {
 	dsi_panel_pwr_supply: dsi_panel_pwr_supply {
